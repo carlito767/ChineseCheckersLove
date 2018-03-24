@@ -12,8 +12,6 @@ end
 --[[ Initialisation ]]--
 
 local function new(rawBoard, modeIndex)
-  local mode = rawBoard.modes[modeIndex]
-
   -- Joueurs
   local mode = rawBoard.modes[modeIndex]
   local players = {}
