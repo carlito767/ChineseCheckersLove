@@ -1,3 +1,7 @@
+#### STATUS : Abandoned
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 # ChineseCheckersLove
 
 Chinese Checkers game in [LÖVE](https://love2d.org/)
